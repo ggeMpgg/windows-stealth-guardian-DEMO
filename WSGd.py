@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-DARKFORGE-X WINDOWS STEALTH GUARDIAN
-Advanced Windows Footprint Elimination with VPN Protection
-Authorized Penetration Testing Use Only - Windows Optimized
-"""
-
 import os
 import sys
 import random
